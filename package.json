@@ -1,0 +1,16 @@
+{
+  "name": "spotify-tagger",
+  "version": "1.0.0",
+  "description": "Tag tracks with Spotify metadata",
+  "main": "index.js",
+  "repository": "https://github.com/luisivan/spotify-tagger",
+  "author": "Luis Cuende",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.0.0",
+    "node-id3": "^0.2.3",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "type": "module"
+}
